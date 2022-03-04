@@ -5,7 +5,8 @@ Environment
 Windows 10, Chrome, Gmail Inbox
 
 
-Objective of a test
+
+Objective of the test
 
 Verify:
 
